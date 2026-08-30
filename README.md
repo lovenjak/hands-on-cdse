@@ -1,5 +1,7 @@
 # Hands-on CDSE
 
+### FOSS4G 2026, Hiroshima
+
 Materials from **Hands-on CDSE: From Copernicus Browser to Evalscripts and APIs**,
 a three-hour workshop at FOSS4G 2026 in Hiroshima.
 
