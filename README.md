@@ -67,7 +67,15 @@ matters.
 - Requests Builder, a GUI that exports runnable Python — <https://shapps.dataspace.copernicus.eu/requests-builder>
 - Sentinel Hub dashboard — <https://shapps.dataspace.copernicus.eu/dashboard>
 
-## Credits
+## Licence
+
+[MIT](LICENSE) — take it, change it, teach with it, sell it.
+
+That covers the notebook, the reference files and the slide text. Some material embedded in
+the deck is not mine to relicense and keeps its own terms: Copernicus Sentinel imagery,
+screenshots of the Copernicus Browser and Sentinel Hub Dashboard, the Copernicus / CDSE / EU
+/ ESA / Python marks, and one Gemini-generated illustration. Details in [LICENSE](LICENSE).
+None of it restricts reuse of the text, the code or the reference files.
 
 Imagery throughout: contains modified Copernicus Sentinel data and Copernicus Service
 information.
